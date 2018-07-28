@@ -1,0 +1,13 @@
+Expo: A tool or app that allows/helps you to run React Native apps on original devices like android and ios phone.
+Step1:
+    Download Expo from Google play store for mobile, which requires testing.  
+Step2:
+    Run Expo app from mobile.   
+Step3:
+    Prerequisite 1: Requires your phone to be connected by USB, using Air Bridge (OEM).
+    Prerequisite 2: Connect your phone via USB. 
+    Scan QR image code from Expo App.
+    RefURL: https://developer.android.com/studio/run/oem-usb#Drivers  
+Step4:    
+      npm run android or yarn run android // internally calls 'react-native-scripts android'
+    
